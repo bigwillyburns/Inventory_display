@@ -1,9 +1,7 @@
 // ==UserScript==
 // @name        Show Stock Numbers
-// @namespace    https://goo.gl/forms/xdLO8UeBvFZGL77l2
 // @include https://www.ae.com/*/s-prod/*
-// @include https://www.aezone.com/*/s-prod/*
-// @downloadURL http://stash.ae.com/projects/COM/repos/site-merchandising-tools/raw/Show%20Stock%20Numbers.user.js?at=refs%2Fheads%2Fmaster
+// @downloadURL https://github.com/bigwillyburns/Inventory_display/raw/master/Show%20Stock%20Numbers.user.js
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
 // @version     1.7
 // ==/UserScript==
